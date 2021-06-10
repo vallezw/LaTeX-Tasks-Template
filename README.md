@@ -1,2 +1,2 @@
 # LaTeX-Tasks-Template
-Template for LaTeX documents
+Template for basic LaTeX documents
